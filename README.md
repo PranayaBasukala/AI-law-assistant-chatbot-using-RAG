@@ -168,6 +168,7 @@ Scripts located in `/scripts`:
 ---
 
 ## 📝 Project Structure
+```
 ├── backend/               # FastAPI backend
 │   ├── agent/            # AI agent modules
 │   ├── main.py           # Server entry point
@@ -181,7 +182,7 @@ Scripts located in `/scripts`:
 ├── qdrant_storage/       # Vector database
 ├── search_index/         # Full-text search index
 └── scripts/              # Data processing pipeline
-
+```
 
 ---
 
